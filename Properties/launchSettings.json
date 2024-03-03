@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "test_azure_function": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7015",
+      "launchBrowser": false
+    }
+  }
+}
